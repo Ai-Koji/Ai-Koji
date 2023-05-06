@@ -29,7 +29,10 @@ I am a novice backend developer, I have experience with git, linux, sqlite3, dja
 </p>
                 
                
-<p align="left"> <a href="https://www.codepen.io/test" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Lost Soul#3870" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Lost-S0ul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://vk.com/maksimb84637" target="_blank" rel="noreferrer"><img src="https://s3.amazonaws.com/freebiesupply/large/2x/vk-logo-black-transparent.png" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.codepen.io/test" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Lost Soul#3870" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Lost-S0ul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://vk.com/maksimb84637" target="_blank" rel="noreferrer"><img src="https://s3.amazonaws.com/freebiesupply/large/2x/vk-logo-black-transparent.png" width="32" height="32" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://codeforces.com/predownloaded/a4/a0/a4a053c6175951db96968072d4d70cedc886b2bb.png" width="32" height="32" /></a>
+
+</p>
 
 ### Badges
 
