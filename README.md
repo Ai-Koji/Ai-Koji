@@ -7,9 +7,8 @@ about me
 I am a novice backend developer, I have experience with git, linux, sqlite3, django, flask, etc. At the beginning of my journey, I used material from "sinergy", but also additionally took from "stepik" and books. There are achievements in CodeForces, CodePen and CodeWars. At the moment I am studying and comprehending the world of IT.
 
 *   🌍  I'm based in Russia
-*   🖥️  See my portfolio at [its my protfolio](http://выфвфы)
-*   ✉️  You can contact me at [p.namelesssoul@gmail.com](mailto:p.namelesssoul@gmail.com)
-*   🧠  I'm learning django, flask, nodejs
+*   ✉️  You can contact me at [kireev.ivan.8@gmail.com](mailto:kireev.ivan.8@gmail.com)
+*   🧠  I'm learning django, flask, nodejs, flask
 
 
 <p align="left">
