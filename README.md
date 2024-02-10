@@ -27,13 +27,13 @@ I am a novice backend developer, I have experience with git, linux, sqlite3, dja
 </p>
                 
                
-<p align="left"><a href="https://discord.com/users/Lost Soul#3870" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Lost-S0ul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://vk.com/maksimb84637" target="_blank" rel="noreferrer"><img src="https://s3.amazonaws.com/freebiesupply/large/2x/vk-logo-black-transparent.png" width="32" height="32" /></a>
+<p align="left"><a href="https://discord.com/users/Lost Soul#3870" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Ai-Koji" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://vk.com/maksimb84637" target="_blank" rel="noreferrer"><img src="https://s3.amazonaws.com/freebiesupply/large/2x/vk-logo-black-transparent.png" width="32" height="32" /></a>
 </p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Lost-S0ul"><img src="https://github-readme-stats.vercel.app/api?username=Lost-S0ul&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lost-S0ul's GitHub stats" /></a>
+<a href="http://www.github.com/Ai-Koji"><img src="https://github-readme-stats.vercel.app/api?username=Ai-Koji&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ai-Koji's GitHub stats" /></a>
 
-<a href="http://www.github.com/Lost-S0ul"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lost-S0ul&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Ai-Koji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ai-Koji&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
